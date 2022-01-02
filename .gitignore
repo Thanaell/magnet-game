@@ -16,6 +16,7 @@
 # Other ignored folder
 /[Pp]ackages/
 /[Aa]ssets/Dependencies*
+/[Aa]ssets/Oculus*
 
 # Other ignored files
 .DS_Store
